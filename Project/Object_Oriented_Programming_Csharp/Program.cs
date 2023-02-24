@@ -2,11 +2,11 @@
 
 namespace Project
 {
-    public class Program
+    class Program
     {
         public static void Main()
         {
-            Console.WriteLine("Hhello");
+            
         }
     }
 }
