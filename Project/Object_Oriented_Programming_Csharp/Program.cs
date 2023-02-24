@@ -6,7 +6,7 @@ namespace Project
     {
         public static void Main()
         {
-            Console.WriteLine("Hhello with adds");
+            Console.WriteLine("Hhello");
         }
     }
 }
