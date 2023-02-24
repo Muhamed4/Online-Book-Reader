@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Object_Oriented_Programming_Csharp/1.0.0": {
+        "runtime": {
+          "Object_Oriented_Programming_Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Object_Oriented_Programming_Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

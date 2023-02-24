@@ -1,0 +1,15 @@
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/bin/Debug/net6.0/Object_Oriented_Programming_Csharp
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/bin/Debug/net6.0/Object_Oriented_Programming_Csharp.deps.json
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/bin/Debug/net6.0/Object_Oriented_Programming_Csharp.runtimeconfig.json
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/bin/Debug/net6.0/Object_Oriented_Programming_Csharp.dll
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/bin/Debug/net6.0/Object_Oriented_Programming_Csharp.pdb
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.csproj.AssemblyReference.cache
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.AssemblyInfoInputs.cache
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.AssemblyInfo.cs
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.csproj.CoreCompileInputs.cache
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.dll
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/refint/Object_Oriented_Programming_Csharp.dll
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.pdb
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/Object_Oriented_Programming_Csharp.genruntimeconfig.cache
+/home/muhamed/Desktop/Online_Book_Reader/Online-Book-Reader/Project/Object_Oriented_Programming_Csharp/obj/Debug/net6.0/ref/Object_Oriented_Programming_Csharp.dll
