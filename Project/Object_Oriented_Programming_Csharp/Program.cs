@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Threading.Channels;
 
 namespace Project
 {
     class Program
     {
-        public static void Main()
+        static void Main()
         {
             
         }
