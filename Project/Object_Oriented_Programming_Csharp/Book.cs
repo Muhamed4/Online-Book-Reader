@@ -6,6 +6,7 @@ internal class Book
     public string _title { get; private set; }
     public string _author_name { get; private set; }
     public int _no_page { get; private set; }
+    private int _current_page;
     private Page[] _pages;
     class Page
     {
@@ -26,25 +27,41 @@ internal class Book
         this._author_name = author_name;
         this._no_page = noPage;
         this._pages = new Page[this._no_page];
+        this._current_page = 0;
+        this.Add_Pages();
     }
 
-    public void Add_Page()
+    private void Add_Pages()
     {
-        
+        for (int i = 0; i < this._no_page; i++)
+        {
+            Console.Write($"Enter Page #{i}: ");
+            string Content = Console.ReadLine();
+            Page New_Page = new Page(Content, i + 1);
+            this._pages[i] = New_Page;
+        }
     }
 
-    public string Get_Content()
+    private string Get_Content()
     {
-        return "";
+        return this._pages[this._current_page]._content;
     }
 
     public string Next_Page()
     {
-        return "";
+        if (this._current_page < this._no_page)
+        {
+            ++this._current_page;
+        }
+        return this.Get_Content();
     }
 
     public string Previous_Page()
     {
-        return "";
+        if (this._current_page > 0)
+        {
+            --this._current_page;
+        }
+        return this.Get_Content();
     }
 }
