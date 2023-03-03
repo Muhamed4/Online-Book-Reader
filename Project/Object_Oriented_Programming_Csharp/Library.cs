@@ -12,23 +12,9 @@ internal class Library
         this._current_book = 0;
     }
 
-    public void Add_Book()
+    public void Add_Book(Book book)
     {
-        Take_Information(out string isbn, out string title, out string authorName, out int noPage);
-        Book New_Book = new Book(isbn, title, authorName, noPage);
-        this._books[this._current_book++] = New_Book;
-    }
-
-    private void Take_Information(out string isbn, out string title, out string authorName, out int noPage)
-    {
-        Console.Write($"Enter ISBN: ");
-        isbn = Console.ReadLine();
-        Console.Write($"Enter Title: ");
-        title = Console.ReadLine();
-        Console.Write($"Enter Author Name: ");
-        authorName = Console.ReadLine();
-        Console.Write($"Enter  How Many Pages: ");
-        noPage = int.Parse(Console.ReadLine());
+        this._books[_current_book++] = book;
     }
 
     public void List_Available_Books()
