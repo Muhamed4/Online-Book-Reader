@@ -1,6 +1,6 @@
 namespace Project;
 
-internal class System
+internal class System: ISystem
 {
     private Library _library;
     private Customer[] _customers;
@@ -15,6 +15,8 @@ internal class System
     
     public void RunSystem()
     {
+        // Adding Some Admins in the system
+        // Adding Some Books in the system
         int Choice = Show_Menu(); 
     }
 
