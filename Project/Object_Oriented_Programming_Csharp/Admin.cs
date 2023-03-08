@@ -2,7 +2,7 @@ namespace Project;
 
 internal class Admin: User
 {
-    public Admin(string userName, string password, string name, string email, bool isAdmin): base(userName, password, name, email, isAdmin)
+    public Admin(string userName, string password, string name, string email): base(userName, password, name, email, true)
     {
         
     }
